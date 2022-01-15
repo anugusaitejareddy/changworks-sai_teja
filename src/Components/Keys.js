@@ -11,7 +11,6 @@ configure({
 
 const keyMap = {
   up: "c h a n g w o r k s",
-  a: "a"
 };
 
 const handlers = {
