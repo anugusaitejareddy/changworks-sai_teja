@@ -1,0 +1,16 @@
+.Keys{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.hotKeys{
+    width: 100%;
+}
+
+.Keys input{
+    width: 50%;
+    border: 5px solid;
+    padding: 10px;
+}
